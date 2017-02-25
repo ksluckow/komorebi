@@ -1,0 +1,7 @@
+<ivy-module version="2.0">
+    <info organisation="edu.cmu.sv.isstac" module="spf-wca"/>
+    <dependencies>
+        <dependency org="com.google.guava" name="guava" rev="20.0"/>
+        <dependency org="gov.nasa" name="jconstraints" rev="0.9.1"/>
+    </dependencies>
+</ivy-module>
